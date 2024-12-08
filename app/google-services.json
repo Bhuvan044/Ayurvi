@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1033703741110",
+    "project_id": "ayurvi-auth",
+    "storage_bucket": "ayurvi-auth.appspot.com",
+    "firebase_url": "https://ayurvi-auth-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033703741110:android:2b6ef77cabe49ab9ce3817",
+        "android_client_info": {
+          "package_name": "com.dsatm.ayurvi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynTpl0uWtYAhyvdhpalNazGuP_HTDVkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
